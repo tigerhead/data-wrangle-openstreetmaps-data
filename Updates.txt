@@ -1,0 +1,5 @@
+
+To address the issues in first submission, I make following udpates:
+
+1. Format source code and added comments to improve readability
+2. Add some thought about auditing consistency of the dataset.
