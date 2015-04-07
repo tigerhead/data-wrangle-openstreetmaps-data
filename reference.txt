@@ -1,0 +1,7 @@
+reference:
+
+http://docs.mongodb.org/manual/tutorial
+http://stackoverflow.com
+http://en.wikipedia.org/wiki/Data_quality
+https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+
