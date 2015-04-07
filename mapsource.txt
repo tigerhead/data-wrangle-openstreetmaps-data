@@ -1,0 +1,12 @@
+Source OSM XML is downloaded from                                                
+https://mapzen.com/metro-extracts
+
+Download link:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/new-orleans_louisiana.osm.bz2
+
+I went to Tulane University for one year in 1999. It was my first stop in US when I came all the way from China. 
+It is a lovely city, great food, great music and great people. I missed every day of my life there. That is why I choose this area.
+
+
+
+
